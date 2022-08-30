@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TestList>
+	<Test incomingData="(*-*)" expected="( * - * )"/>
+	<Test incomingData="253+17" expected="253 + 17"/>
+	<Test incomingData="y-x" expected="y - x"/>
+</TestList>
